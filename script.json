@@ -1,6 +1,6 @@
 {
-    "Bonjour": "Bonjour, je m'appelle Liam, je suis un bot. Je serais ravi de discuter avec vous du parcours de Pierre !",
-    "Salut": "Bonjour, je m'appelle Liam, je suis un bot. Je serais ravi de discuter avec vous du parcours de Pierre !",
+    "BONJOUR": "Bonjour, je m'appelle Liam, je suis un bot. Je serais ravi de discuter avec vous du parcours de Pierre !",
+    "SALUT": "Bonjour, je m'appelle Liam, je suis un bot. Je serais ravi de discuter avec vous du parcours de Pierre !",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
